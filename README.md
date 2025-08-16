@@ -53,6 +53,7 @@ https://huggingface.co/spaces/selorm-etse-forfoe/ecommerce-item-category-recomme
 ## 🎯 Usage
 
 When launched, the app will display an interface with the following inputs:
+(https://huggingface.co/spaces/selorm-etse-forfoe/ecommerce-item-category-recommendation-system)
 
 1. **Last Viewed Category ID** → Category ID of the last item viewed by the user.
 2. **Most Frequently Viewed Category ID** → Category ID that the user viewed most often.
