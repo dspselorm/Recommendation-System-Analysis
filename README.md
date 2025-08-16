@@ -24,7 +24,8 @@ This project builds and deploys a **machine learning–based recommendation syst
 ├── README.md               # Project documentation  
 └── data/                   # (Optional) Dataset or sample inputs  
 ```
-
+NB: The rf_model_small.joblib file was too large to be uploaded to GitHub. It can be accessed here
+https://drive.google.com/file/d/1FW8nG5E0siL7cE54n7huWvmpICBIONvu/view?usp=drive_link
 ---
 
 ## ⚙️ Setup & Installation (Running Locally)
